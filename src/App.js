@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import React from 'react';
-import './MyStyle.css'
+import './Component/MyStyle.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter as Router, Routes ,Route , Link} from 'react-router-dom'
 import { Row, Col, Navbar, NavbarToggle, NavbarCollapse ,Nav,NavLink } from 'react-bootstrap';
@@ -11,8 +11,6 @@ import Services from './Component/Services/Services';
 import WhyChooseus from './Component/WhyChooseus/WhyChooseus';
 import Testimonials from './Component/Testimonials/Testimonials';
 import Contact from './Component/Contact/Contact';
-
-
 
 
 function App() {

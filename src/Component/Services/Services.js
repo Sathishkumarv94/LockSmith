@@ -9,9 +9,9 @@ function Services(){
         <section className="sec-two " id="Services">
           <div className=" our " >
         <div className=" services">
-        <div className="images"><img src={require('./Assets/services1.jpg')}></img></div>
-        <div className="images"><img src={require('./Assets/services2.jpg')}></img></div>
-        <div className="images"><img src={require('./Assets/services3.jpg')}></img></div>
+        <div className="images"><img src={require('./Assets/images/services1.jpg')}></img></div>
+        <div className="images"><img src={require('./Assets/images/services2.jpg')}></img></div>
+        <div className="images"><img src={require('./Assets/images/services3.jpg')}></img></div>
       </div>
       </div>
         </section>

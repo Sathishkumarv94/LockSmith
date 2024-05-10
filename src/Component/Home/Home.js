@@ -36,7 +36,7 @@ function Home(){
             
         </Col>
         <Col className=" ">
-            <div className="key"><img src={require('./Assets/key1.jpg')}></img></div>
+            <div className="key"><img src={require('./Assets/images/key1.jpg')}></img></div>
         </Col>
       </Row>
             </section>

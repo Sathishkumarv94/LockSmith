@@ -14,8 +14,8 @@ function About(){
        <p className="text-secondary">Elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco</p>  
     </div>
     <div className="col  secthree-parttwo">
-  <div className="logo2 "><div className="logotool"><img src={require('./Assets/logo2.png')}></img></div> 
-   <img className="key3" width="50%" src={require('./Assets/key3.jpg')}></img></div> 
+  <div className="logo2 "><div className="logotool"><img src={require('./Assets/images/logo2.png')}></img></div> 
+   <img className="key3" width="50%" src={require('./Assets/images/key3.jpg')}></img></div> 
     </div>
   </div>
 

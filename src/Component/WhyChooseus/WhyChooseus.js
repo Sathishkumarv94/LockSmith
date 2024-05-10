@@ -31,7 +31,7 @@ function WhyChooseus(){
       </Row>
       
       </Container>
-      <div className=" key4-image " ><img src={require('./Assets/key4.jpg')}></img></div>
+      <div className=" key4-image " ><img src={require('./Assets/images/key4.jpg')}></img></div>
     </div>
      
             </section>
